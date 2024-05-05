@@ -6,3 +6,6 @@ In this Global Super store project, I dug into the Sample Superstore dataset to 
 
 
 In ott dashboard project, we aim to create a comprehensive dashboard comparing the performance of three popular streaming platforms: Netflix, Hotstar, and Prime Video. By gathering and analyzing data on subscriber metrics, content popularity, revenue, geographical and competitive analysis, we seek to provide valuable insights into the strengths and weaknesses of each platform. This dashboard will serve as a powerful tool for decision-makers in the streaming industry, enabling them to track performance, identify trends, and make informed strategic decisions. Throughout this project, we will prioritize data accuracy, visualization clarity, and user accessibility to ensure the dashboard effectively meets the needs of its audience.
+
+
+Dive into Python capstone project on road accidents, leveraging data analysis and visualization techniques. Investigate accident patterns, identify risk factors, and propose solutions. Gain practical skills in data handling, statistical analysis, and plotting to make informed decisions and contribute to road safety initiatives effectively. 
